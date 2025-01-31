@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariz43
+- 👋 Hi, I’m SM Mariz
 - 👀 I’m interested in Java,Python3,Javascript and algorithm solving
 - 🌱 I’m currently learning python and Javascript
 - 💞️ I’m looking to collaborate on algorithm problem solving
